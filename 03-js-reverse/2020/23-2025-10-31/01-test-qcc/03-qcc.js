@@ -15,11 +15,11 @@ window = global;
 
 var _0xod7 = "jsjiami.com.v7";
 // qccppm, qccrkeys 是 从 HTML 中获取的，需要写活
-/*var qccppm = "python_qccppm";
-var qccrkeys = "python_qcckeys";*/
-var qccppm = "pDjCjFZmdpQZBGZbQylr6XGGsmehJI4p|f5XY07e3XkeXCMkb|A51550783CCD15DF87525FC17CEDB13A";
+var qccppm = "python_qccppm";
+var qccrkeys = "python_qcckeys";
+/* var qccppm = "pDjCjFZmdpQZBGZbQylr6XGGsmehJI4p|f5XY07e3XkeXCMkb|A51550783CCD15DF87525FC17CEDB13A";
 var qccrkeys = ["0", "A7DD7B89A5D13036C80946173A441E75", "4", "123456", "0", "OKLGjpWXdJCPEkqzv\"-M;y3FGZS\\dGUEDqG!u}miCiHEGxUXdPx7hYorGL1nzfnFm^&o5GNEYyr UKn65EGI<=onf~KkngtQyn9wHVU<na}dZ6R2peKjF\\+!g|iS O}c[VEXqVx?c&oK3vwk!ZblkkkKqiOs&X[:R[ol^\\sH3:Ggd|i{F\"*]p3S6Npg0\\o3nK6nYYcNlc-jIq;gKdUU-.mM|GW+;CiPFGJSY+_CS7mPN&_[<\\489NYonRHvFrXM$\\-1|IdF}W:DjuWrJyoO: F5UNm}9Z<zbv|N\\XoRPFK1Smr\\J;wgO)YWlke;y!K7iUmd8m8AG5Yt24Kr}U&-Pc2y6Qa`ONUkkZHZ}d$k}wK3wZ9vLsvyJzNzX_i4w6nw=7kPJ'6StDFSlS-UO6SMFGXRzosN\\4/L `W{~XT|6|l[,\\|dpToXosEip{5VFH}T&zOKGNELZPJVl[iv[<XWfVkFDiMNNYgpzpefUXBEjh{2ETUI\"y#.nOcy3[K=Iq[:[lLkB_[f\\eTOlhR)$VIOOgWo$sK6SKUuM?=ZJV8{Smy6lGzU;jz93hTcjWgHUPyQkdiw?CmETiwgJlSYiggP B/q SNNRQz^Xjt[WZHWod$|K;M4rG_|NkkJSmSqXfZy6w7Uym{Y{R\\4|O8;c=X>;x{yZi<u\\dqCvsR< ?YoWH1s3m hIYkzPh4 n|l+xHerOTc=k:lFg\\jLrqF;gMJYIN@}LysNi{Rvo!Z2jJuL8OKT#2gtgKv=SO\"hGqy38vtP -o6nSi7rXw.18c\\ijyY*>oe24VoTxfd?FLdY:ZBXgn2IPqM_#\"tl|ld;<?Yly:pr9eN]a\\\\pu9KN!!KS", "OKJjSJ>]fYsIVMh<RghHCSXEG=UddJEDlUQKuggOqH2inAY%/7lzE^z?fj,uDCR\\T >j5~G;PgStp,pT1u<9WW(#hl9cKx?=%{Sis:lpMsoe<jtqxk1oQ_rrwg2urX>k[7HF47j\"x[/^Rfp8OaqyS86h:zx^wlY=SJ\\^kJf`j[1Tjv RxIRsV8q;i#>$j<{nz4MS$Hp7rGH=ZK$$q}KFDUGK", "1"];
-var _0x510f65 = qccppm["split"]("|");
+ */var _0x510f65 = qccppm["split"]("|");
 var _0x2855b1 = _0x510f65[0]
     , _0x2016ce = _0x510f65[1]
     , _0x359c94 = _0x510f65[2];
